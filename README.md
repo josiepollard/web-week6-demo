@@ -1,4 +1,6 @@
 # web-week6-demo
+Allows updates and deletion of records in a bookstore DB
+
 follows on from https://github.com/josiepollard/web-week5-demo (As below)
 
     Mock bookstore that uses a database. lists all books which can then be viewed individually
