@@ -1,4 +1,4 @@
-# web-wee6-demo
+# web-week6-demo
 follows on from https://github.com/josiepollard/web-week5-demo (As below)
 
     Mock bookstore that uses a database. lists all books which can then be viewed individually
