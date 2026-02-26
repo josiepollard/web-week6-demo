@@ -19,6 +19,7 @@ follows on from https://github.com/josiepollard/web-week5-demo (As below)
         ('Web Application Development', 'Holliday Clara  ', 10.99, '2024-04-12'),
         ('PHP & MySQL', 'Leah Collins', 9.99, '2025-06-08'),
         ('React Javascript Framework', 'Sony Shaino ', 12.50, '2024-05-13');
+        
     then run http://localhost/display_all.php while running xampp database
 
 After, 
