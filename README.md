@@ -23,6 +23,7 @@ follows on from https://github.com/josiepollard/web-week5-demo (As below)
 
 After, 
 we create a table in the database called users.
+
         CREATE TABLE users (
             user_id INT AUTO_INCREMENT PRIMARY KEY,
             first_name VARCHAR(50) NOT NULL,
